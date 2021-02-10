@@ -1,11 +1,11 @@
 # Site settings
 author: Ben Hayes
-title: 
+title: Ben-the-Boy's Coding Adventures
 header-img: img/home-bg.png
 email: b.t.hayes@comcast.net
 copyright_name: Ben Hayes
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A collection of thoughts from the mind of a novice coder.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ben-the-boy
